@@ -1,0 +1,18 @@
+
+.results:hover {
+  color: pink;
+}
+
+    
+.resultBox {
+  color: yellow;
+}
+
+.dataItem {
+  color: purple;
+}
+
+.carousel-inner{
+	width: 100px;
+	height: 50px;
+}
