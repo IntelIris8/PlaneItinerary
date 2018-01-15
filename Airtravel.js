@@ -15,3 +15,4 @@ $.get("https://api.myjson.com/bins/1gb9tf", function(data) {
   displayData(data);
   console.log(data);
 });
+
